@@ -17,5 +17,3 @@ Before start:
 1) Create Cell Map folder and add proper address to the codes
 
 Cell Map: performes UMAP analysis of provided gene expression dataset, returns a table with UMAP results and creates a plot. Use Sanger cluster1 as a test file and as example of input data.
-
-Cell Map with clustering: also clusters UMAP results and marks clusters on the plot. Use Sanger cluster1 as a test file and as example of input data.
